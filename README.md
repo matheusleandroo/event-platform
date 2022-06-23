@@ -56,4 +56,4 @@ Now you can use from your browser "**Event Platform**".
 
 This project is licensed under the MIT License - see the <a href="https://github.com/matheusleandroo/reactjs-crud/blob/master/LICENSE">LICENSE.md</a> file for details.
 
-Based on <a href="https://rocketseat.com.br/starter">Starter Rocketseat</a> :rocket:
+Based on <a href="https://lp.rocketseat.com.br/inscricao/ignite-lab">Ignite Lab Rocketseat</a> :rocket:
