@@ -30,7 +30,10 @@ After clone repository, go to folder and follow this steps:
 
 - Create a file **`.env`** based on the file **`.env.example`**;
 - Place your settings inside the **`.env`** file;
+- Create a file **`codegen.yaml`** based on the file **`codegen.example`**;
+- Place your settings inside the **`.codegen.yaml`** file;
 - Run **`npm i`** to install dependencies;
+- Run **`npm run codegen`**;
 - Run **`npm run dev`** to start application.
 
 Now you can use from your browser "**Event Platform**".
@@ -43,6 +46,7 @@ Now you can use from your browser "**Event Platform**".
   <li>GraphQL</li>
   <li>Apollo</li>
   <li>GraphCMS</li>
+  <li>GraphQL Code Generator</li>
   <li>Tailwind CSS</li>
 </ul>
 
