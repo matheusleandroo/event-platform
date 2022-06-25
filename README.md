@@ -48,6 +48,7 @@ Now you can use from your browser "**Event Platform**".
   <li>GraphCMS</li>
   <li>GraphQL Code Generator</li>
   <li>Tailwind CSS</li>
+  <li>Vercel</li>
 </ul>
 
 <h3>Authors</h3>
