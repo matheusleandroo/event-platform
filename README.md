@@ -30,7 +30,7 @@ After clone repository, go to folder and follow this steps:
 
 - Create a file **`.env`** based on the file **`.env.example`**;
 - Place your settings inside the **`.env`** file;
-- Create a file **`codegen.yaml`** based on the file **`codegen.example`**;
+- Create a file **`codegen.yaml`** based on the file **`codegen.example.yaml`**;
 - Place your settings inside the **`.codegen.yaml`** file;
 - Run **`npm i`** to install dependencies;
 - Run **`npm run codegen`**;
