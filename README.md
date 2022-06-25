@@ -2,6 +2,8 @@
   Event Platform
 </h1>
 
+<h5 align="center">:exclamation: This project is online at <a href="https://event-platform-roan.vercel.app/">here</a> :scream:</h5>
+
 <h3 align="center">
   A simple event platform.
 </h3>
